@@ -1,22 +1,27 @@
 ## Hi, I'm Darshan 👋
 
-Backend Developer (Ruby on Rails | Go | Python)
+Backend Developer (Ruby on Rails | Go | React)
 
-* 🔧 Building backend systems and APIs
-* ⚡ Working with Rails, Go, PostgreSQL, Redis
-* 🧠 Interested in system design & scalable architecture
+* 🔧 Building scalable backend systems & APIs
+* ⚡ Experience in Rails, Go, React, PostgreSQL, Redis
+* 🧠 Focused on system design & performance
 
-## Tech Stack
+## 🚀 Featured Projects
 
-Ruby on Rails • Go • Python • PostgreSQL • Redis • Docker
+### 🔹 Rails SaaS Starter
 
-## Current Focus
+Production-style SaaS backend with authentication, background jobs, and caching.
 
-* Building production-grade backend projects in Go & Rails
-* Improving system design skills
+### 🔹 Go URL Shortener
 
-## Upcoming Projects
+High-performance URL shortener with PostgreSQL + Redis and clean architecture.
 
-* SaaS app (Rails)
-* URL shortener (Go)
-* Automation tools (Python)
+## 🛠 Tech Stack
+
+Ruby on Rails • Go • React • PostgreSQL • Redis • Docker
+
+## 📈 Current Focus
+
+* Backend system design
+* Performance optimization
+* Improving frontend integration with React
