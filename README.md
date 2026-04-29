@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Darshan 👋
 
-<!--
-**Darshan-Shet/Darshan-Shet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer (Ruby on Rails | Go | Python)
 
-Here are some ideas to get you started:
+* 🔧 Building backend systems and APIs
+* ⚡ Working with Rails, Go, PostgreSQL, Redis
+* 🧠 Interested in system design & scalable architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+Ruby on Rails • Go • Python • PostgreSQL • Redis • Docker
+
+## Current Focus
+
+* Building production-grade backend projects in Go & Rails
+* Improving system design skills
+
+## Upcoming Projects
+
+* SaaS app (Rails)
+* URL shortener (Go)
+* Automation tools (Python)
