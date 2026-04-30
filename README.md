@@ -9,21 +9,48 @@ Full-Stack Developer (Backend-focused)
 
 ## 🚀 Featured Projects
 
+### 🔹 React Finance Calculator
+
+A modern financial calculator web app with SIP, EMI, and Lumpsum tools, built using React and Tailwind CSS.
+Includes interactive charts and real-time calculations.
+
+👉 https://Darshan-Shet.github.io/react-finance-calculator/
+
+---
+
 ### 🔹 Rails SaaS Starter
 
-Production-style SaaS backend with authentication, background jobs, caching, and Docker setup.
+Production-style SaaS backend built with Ruby on Rails.
+Includes authentication (Devise), background jobs (Sidekiq), caching, and Docker setup.
+
+👉 https://github.com/Darshan-Shet/rails-saas-starter
+
+---
 
 ### 🔹 Go URL Shortener
 
-High-performance URL shortener with PostgreSQL, Redis caching, and clean architecture.
+High-performance URL shortener built with Go.
+Implements PostgreSQL storage, Redis caching, and clean architecture.
+
+👉 https://github.com/Darshan-Shet/go-url-shortener
+
+---
 
 ### 🔹 Python Log Analyzer
 
-CLI tool for parsing and analyzing logs with useful insights.
+CLI tool for parsing and analyzing logs with filtering, statistics, and CSV export.
+
+👉 https://github.com/Darshan-Shet/python-log-analyzer
+
+# 💰 react-finkit
+
+![npm version](https://img.shields.io/npm/v/@darshan-shet/react-finkit)
+![downloads](https://img.shields.io/npm/dm/@darshan-shet/react-finkit)
+![license](https://img.shields.io/npm/l/@darshan-shet/react-finkit)
 
 ## 🛠 Tech Stack
 
-Ruby on Rails • Go • Python • React • JavaScript
+Ruby on Rails • Go • Python • React • JavaScript •
 PostgreSQL • MySQL • Redis • Docker • Apache
 
 ## 📈 Current Focus
@@ -32,3 +59,4 @@ PostgreSQL • MySQL • Redis • Docker • Apache
 * Performance optimization
 * Improving frontend integration with React
 * Deployment & infrastructure basics
+* A collection of projects focused on building scalable systems and practical developer tools.
