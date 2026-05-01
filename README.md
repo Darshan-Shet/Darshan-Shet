@@ -42,12 +42,6 @@ CLI tool for parsing and analyzing logs with filtering, statistics, and CSV expo
 
 👉 https://github.com/Darshan-Shet/python-log-analyzer
 
-# 💰 react-finkit
-
-![npm version](https://img.shields.io/npm/v/@darshan-shet/react-finkit)
-![downloads](https://img.shields.io/npm/dm/@darshan-shet/react-finkit)
-![license](https://img.shields.io/npm/l/@darshan-shet/react-finkit)
-
 ## 🛠 Tech Stack
 
 Ruby on Rails • Go • Python • React • JavaScript •
